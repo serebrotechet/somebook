@@ -16,7 +16,7 @@
 
 `cd /` - вернуться в корень.
 
-*Пример*: вы находитесь в папке /home/username/Downloads/some-file
+**Пример** : вы находитесь в папке /home/username/Downloads/some-file
 
 вам нужно вернуться в папку /home/username
 
