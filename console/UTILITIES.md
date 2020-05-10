@@ -4,10 +4,10 @@
 
 отделить звук от видео
 
-ffmpeg -i ... -vn -c copy audio.mkv
-ffmpeg -i ... -an -c copy video.mkv
+`ffmpeg -i ... -vn -c copy audio.mkv`
+`ffmpeg -i ... -an -c copy video.mkv`
 
-`lscpu` - утилита, которая детализирует проц.
+**lscpu** - утилита, которая детализирует проц.
 
 `inxi` - инженереная утилитадля получения инженерных данных физического оборудования. *inxi -iv4* *inxi -Fzx*
 
