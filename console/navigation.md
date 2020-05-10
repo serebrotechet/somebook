@@ -10,7 +10,7 @@
 
 **cp** - копировать файл. 
 
-'cp TERMS.md TERMS1.md' сделать копию файла TERMS.md с именем TERMS1.md
+`cp TERMS.md TERMS1.md` сделать копию файла TERMS.md с именем TERMS1.md
 
 **cd ..** - вернуться на один уровень выше.
 
