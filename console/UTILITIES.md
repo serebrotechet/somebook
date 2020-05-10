@@ -35,3 +35,14 @@
 **glances** - утилиты системной статистики в реальном времени с варнингами. (кратко)
 
 **iptraf-ng** - сетевой анализатор. Запускать через sudo.
+
+
+
+
+## FAQ:
+
+### I have a problem with connecting to the Database
+
+**Solution:**
+
+*(Thanks to `@lightos` for this fix)*
