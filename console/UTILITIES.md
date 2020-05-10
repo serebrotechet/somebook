@@ -1,4 +1,7 @@
-## Утилиты командной строки ##
+## Утилиты командной строки
+
+### работа с ОС
+
 
 **ffmpeg**
 
@@ -38,10 +41,6 @@
 
 
 
-
-## FAQ:
-
-### I have a problem with connecting to the Database
 
 **Solution:**
 
