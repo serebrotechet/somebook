@@ -2,9 +2,9 @@
 
 ### LINUX
 
-[GitHub](http://github.com)
+- [GitHub](http://github.com)
 
-[Habr](http://habr.com)
+- [Habr](http://habr.com)
 
 toaster.ru
 
