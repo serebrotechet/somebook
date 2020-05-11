@@ -2,13 +2,14 @@
 
 ### LINUX
 
-- [GitHub](http://github.com)
+- [GitHub](https://github.com)
 
-- [Habr](http://habr.com)
+- [Habr](https://habr.com)
 
-toaster.ru
+- [toaster.ru](https://toaster.ru)
 
-stackowerflow.com
+- [stackowerflow](https://stackowerflow.com)
+
 
 ### ANDROID
 
