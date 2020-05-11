@@ -7,6 +7,8 @@
 ## Cайты с обязательной для разработчика регистрацией
 
 - [GitHub](https://github.com)
+- [GitLab](https://gitlab.org) `свободный аналог GitHub`
+- [BitBucket](https://bitbucket.org) `свободный аналог GitHub`
 
 - [Habr](https://habr.com)
 
