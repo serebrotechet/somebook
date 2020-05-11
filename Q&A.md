@@ -34,9 +34,3 @@
 
 ### Справочные сайты
 
-
-
-|    Heading Centered    | регистрация желательна?|  Heading Centered  |   Heading Right Aligned |
-|------------------------|:-----------------------|:------------------:|------------------------:|
-|[pkgs](https://pkgs.org)| да                     | Cell text centered | Cell text right aligned |
-| cell 21                | cell 22              уцауцауауцауцауцауцауцацуауцауцацуацуауцацуаауа  |
