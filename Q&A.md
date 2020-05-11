@@ -13,21 +13,22 @@
 
 ### ANDROID
 
-4pda.ru
-xda-developers.com
+[4pda](4pda.ru)
+
+[xda-developers](xda-developers.com)
 
 
 ## Справочные сайты ##
 
-LINUX
-====
+### LINUX
+
 [GitHub](http://github.com)
 
-habr.com
-toaster.ru
-stackowerflow.com
+- habr.com
+- toaster.ru
+- stackowerflow.com
 
-ANDROID
-====
-4pda.ru
-xda-developers.com
+### ANDROID
+
+- 4pda.ru
+- xda-developers.com
