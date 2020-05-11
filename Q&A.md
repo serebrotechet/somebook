@@ -2,13 +2,13 @@
 
 ### LINUX
 
-github.com
-habr.com
+[GitHub](http://github.com)
+[Habr](http://habr.com)
 toaster.ru
 stackowerflow.com
 
-ANDROID
-====
+### ANDROID
+
 4pda.ru
 xda-developers.com
 
