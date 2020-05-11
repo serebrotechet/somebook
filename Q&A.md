@@ -36,7 +36,7 @@
 
 
 
-|    Heading Centered    |    Heading Centered   |
+|    Heading Centered    | регистрация желательна?|  Heading Centered  |   Heading Right Aligned |
 |------------------------|:-----------------------|:------------------:|------------------------:|
-| Cell text left aligned | Cell text left aligned | Cell text centered | Cell text right aligned |
+|[pkgs](https://pkgs.org)| да                     | Cell text centered | Cell text right aligned |
 | cell 21                | cell 22                |      cell 22       |                 cell 22 |
