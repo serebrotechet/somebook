@@ -36,7 +36,7 @@
 
 
 
-|    Heading Centered    | Heading Left Aligned   |  Heading Centered  |   Heading Right Aligned |
+|    Heading Centered    |                                                                       |
 |------------------------|:-----------------------|:------------------:|------------------------:|
 | Cell text left aligned | Cell text left aligned | Cell text centered | Cell text right aligned |
 | cell 21                | cell 22                |      cell 22       |                 cell 22 |
