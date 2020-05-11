@@ -1,6 +1,7 @@
-## Cайты с обязательной регистрацией
 
 ### LINUX
+
+## Cайты с обязательной для разработчика регистрацией
 
 - [GitHub](https://github.com)
 
@@ -9,28 +10,21 @@
 - [toaster.ru](https://toaster.ru)
 
 - [stackowerflow](https://stackowerflow.com)
-    - dfdddgdf
-    - edferfe
+
+- [pkgs](https://pkgs.org)
+
+## Справочные сайты
 
 
 ### ANDROID
+
+## Cайты с обязательной для разработчика регистрацией
 
 [4pda](4pda.ru)
 
 [xda-developers](xda-developers.com)
 
 
-## Справочные сайты ##
+## Справочные сайты
 
-### LINUX
 
-[GitHub](http://github.com)
-
-- habr.com
-- toaster.ru
-- stackowerflow.com
-
-### ANDROID
-
-- 4pda.ru
-- xda-developers.com
