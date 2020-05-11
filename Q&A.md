@@ -1,6 +1,9 @@
 
 ### LINUX
 
+- [pkgs](https://pkgs.org)
+    - сайт с метапакетами/библиотеками/утилитами ПО для наиболее известных ОС
+
 ## Cайты с обязательной для разработчика регистрацией
 
 - [GitHub](https://github.com)
@@ -11,7 +14,6 @@
 
 - [stackowerflow](https://stackowerflow.com)
 
-- [pkgs](https://pkgs.org)
 
 ## Справочные сайты
 
