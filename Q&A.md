@@ -17,7 +17,7 @@ xda-developers.com
 
 LINUX
 ====
-github.com
+[github.com(asdssad)]
 habr.com
 toaster.ru
 stackowerflow.com
