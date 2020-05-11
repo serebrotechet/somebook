@@ -3,8 +3,11 @@
 ### LINUX
 
 [GitHub](http://github.com)
+
 [Habr](http://habr.com)
+
 toaster.ru
+
 stackowerflow.com
 
 ### ANDROID
