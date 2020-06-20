@@ -48,6 +48,10 @@
 
 `sudo apt --fix-broken install` починит зависимости пакета
 
+**aptitude**
+
+**synaptic**
+
  
  
 ### работа с сетью:
