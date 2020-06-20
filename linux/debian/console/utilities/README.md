@@ -38,9 +38,17 @@
 
 `time ffmpeg -i input.mkv -c copy -vn audio.mkv -c copy -an video.mkv`
 
+-----------------
+
+### работа с текстом:
+
 **nano** - текстовый редактор
 
 `nano test.txt` создать текстовый файл с именем test.txt
+
+**vim**
+
+**mcedit**
 
 -----------------
 
