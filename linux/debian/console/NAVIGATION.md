@@ -26,7 +26,7 @@
 
 **mv** - переместить файл/папку по файловой системе
 
-'mv /Desktop/file1 /Downloads/file1'
+'mv username/Desktop/file1 username/Downloads/file1' переместить файл file1 из десктопа в загрузки
 
 ----------------
 
@@ -51,6 +51,9 @@
 `chown [флаг] <имя владельца:имя группы владельцев> <имя файла или директории>`
 
 **passwd** - изменить пароль
+
+**wget** - скачать искомое по введённому адресу. 
+**пример:** wget https://github.com/ejabbered/somebook/edit/master/linux/debian/console/NAVIGATION.md - скачает файл NAVIGATION.md
 
 
 
