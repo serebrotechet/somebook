@@ -55,5 +55,5 @@
 **wget** - скачать искомое по введённому адресу. 
 **пример:** wget https://github.com/ejabbered/somebook/edit/master/linux/debian/console/NAVIGATION.md - скачает файл NAVIGATION.md
 
-
+**curl** 
 
