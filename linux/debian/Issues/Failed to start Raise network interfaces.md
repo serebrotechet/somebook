@@ -1,7 +1,8 @@
-Ошибка при загузке системы - Failed to start Raise network interfaces
+## Xbybv ошибку при загузке системы: Failed to start Raise network interfaces
 
 Решение:
-Идем в /etc/network/interfaces.d/setup
-Меняем auto eth0 на allow-hotplug eth0
-Перезагружаем систему.
+
+0. Идем в **/etc/network/interfaces.d/setup**
+1. Меняем параметр **auto eth0** на **allow-hotplug eth0**
+2. Перезагружаем систему.
 
