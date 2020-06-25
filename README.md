@@ -1,13 +1,6 @@
-### GLOSSARY
+## GLOSSARY
 
 
 -/
 -/somebook
--/
-|
-|
-|
-|
-|
-|
-|
+
