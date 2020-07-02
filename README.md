@@ -3,10 +3,15 @@
 
 
 -/somebook
+
 -/somebook/linux
+
 -/somebook/linux/debian
+
 -/somebook/linux/ubuntu
+
 -/somebook/linux/slackware
+
 -/
 -/
 -/
