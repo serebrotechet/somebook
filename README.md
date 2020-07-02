@@ -8,7 +8,7 @@
 
 -/somebook/linux/debian
 
--/somebook/linux/ubuntu
+-## /somebook/linux/ubuntu
 
 -/somebook/linux/slackware
 
