@@ -2,9 +2,9 @@
 
 
 
--/somebook
+-## /somebook
 
--/somebook/linux
+-/## somebook/linux
 
 -/somebook/linux/debian
 
@@ -12,9 +12,6 @@
 
 -/somebook/linux/slackware
 
--/
--/
--/
--/
 -/TERMS.md
+
 -/README.md
